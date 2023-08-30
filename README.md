@@ -1,6 +1,6 @@
 # Whatsapp Chat Analyzer
 
-Unveil WhatsApp chat insights effortlessly with this Python and Streamlit-powered analyzer. Track messages, media, and links shared. Explore busy days and months, spot active users, and map weekly engagement. Elevate your chat understanding today
+### Unveil WhatsApp chat insights effortlessly with this Python and Streamlit-powered analyzer. Track messages, media, and links shared. Explore busy days and months, spot active users, and map weekly engagement. Elevate your chat understanding today
 
 ## :computer: Live
 <img src='demo/Screenshot_34.png'>
