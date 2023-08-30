@@ -40,14 +40,14 @@ Unveil WhatsApp chat insights effortlessly with this Python and Streamlit-powere
 - **Integration with Other Platforms:** Extend the analyzer to support other messaging platforms like Telegram, Facebook Messenger, etc.
 - **Interactive Filters:** Implement interactive filters to allow users to select a specific date range or participant and see analytics for that subset of the chat.
 - **Topic Clustering:** Use topic modeling techniques to automatically group messages into topics, making it easier to understand the main subjects being discussed.
-- **Export Reports:** Allow users to export the generated reports and visualizations for their own records or sharing with others.
-- **Geolocation Data:** If users have shared location data, you could visualize where most of the participants are located on a map.
+- **Export Reports:** Allow users to export the generated reports and visualizations for their own records or share them with others.
+- **Geolocation Data:** If users have shared location data, you can visualize where most of the participants are located on a map.
 - **Data Privacy Features:** Ensure that sensitive information is handled appropriately and allow users to mask or exclude specific parts of the chat.
 - **Real-time Analysis:** Develop a mechanism to analyze messages in real-time as they come in, providing live insights for ongoing conversations.
 
 ## :muscle: Contributions
 
-Contributions are welcome! Feel free to open issues for discussions or submit pull requests to enhance the application's functionality and accuracy. Here is how you can contribute.
+Contributions are welcome! Feel free to open issues for discussion or submit pull requests to enhance the application's functionality and accuracy. Here is how you can contribute.
 
 - **Feature Enhancements:** If you have ideas for new features, improved data visualization, or advanced prediction algorithms, open an issue to discuss your suggestions.
 
